@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "318726075315",
+    "project_id": "medbot-app",
+    "storage_bucket": "medbot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318726075315:android:ea894e9e79d2f39769d1c6",
+        "android_client_info": {
+          "package_name": "com.flutterflow.medbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318726075315-it0vqmld6kaa4mqad04jobeir0keh02g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOW7pstkSEQWpDYKmm78CIpzP_F45UKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318726075315-it0vqmld6kaa4mqad04jobeir0keh02g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318726075315-5akqd7g4ti9mbb54s7ph016pbfoojbr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.medbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
